@@ -72,7 +72,7 @@ System identity, Uptime, Memory usage, Disk usage, Running processes, CPU usage,
 ## ⚙ Installation & Setup
 
     ```Clone the repository:
-git clone https://github.com/Hache-premier/info-dashboard.git
+git clone <https://github.com/Hache-premier/info-dashboard.git>
 
 Give execution permission to the script:
 
